@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./couch.png" width="500" >
+  <img src="./couch.png" width="494" >
 </div>
 
 ---
