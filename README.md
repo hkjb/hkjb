@@ -25,8 +25,23 @@ Hey, I'm Hayden 👋
 
 ### 📎 Links
 
-[![JavaScript](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin)](https://www.linkedin.com/in/hkjb/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin)](https://www.linkedin.com/in/hkjb/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=stackoverflow)](https://stackoverflow.com/users/4953804/hkjb)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hkjb.hkjb&right_color=green&left_color=black" style="align-self: ;height: 20px; margin-top:10px">
+
+### 🌱 Technologies
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=awsorganizations)
+
+### 🔭 Tools
+
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E)
+![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=adobecreativecloud&logoColor=DA1F26)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Postman](https://img.shields.io/badge/-Git-000?&logo=git)
 
 ---
 
